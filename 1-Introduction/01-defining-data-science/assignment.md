@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | How can you use data to improve education process for children in schools? | Student's grade sorted by level, and also linked to the respective subject and, if available the method used to teaching the students for each subject. | Structure the data and store it in a database. | We can compare the student's grade and the method used to theaching the students. We also compare the method with the student's age. |
+| Vaccination | How can you use data to control vaccination during the pandemic? | We can collect public data from health gov division, speacially data of vaccination numbers, with information about the region of these people, age and social conditions | Structure the data and store it in a database. | The amount of vaccine applied, the regions with its vaccination numbers. The most vaccinated region of the country. The most age people vaccinated. |
+| Productivity | How can you use data to make sure you are being productive at work? | Projects done. Number of e-mails replyed per day. Number of ticket resolved omn the portal. | Tructured the data and store it in spreadsheet or in a local database. | Number of projects completed per month, the amount of tickets resolved per day. |
 
 ## Rubric
 
